@@ -78,5 +78,4 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-repository: https://git.coding.net/Johnny_niu/Blogs.git
-branch: master
+repository: git@git.coding.net:Johnny_niu/Blogs.git,master
